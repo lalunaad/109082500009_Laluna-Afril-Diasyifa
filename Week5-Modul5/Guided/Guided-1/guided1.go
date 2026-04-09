@@ -18,4 +18,4 @@ func main() {
 	fmt.Scan(&n)
 
 	baris(n)
-}
+} 
